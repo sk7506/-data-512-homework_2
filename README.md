@@ -19,10 +19,6 @@ The population data is available in CSV format as **population_by_country_AUG.20
 
 
 
-### Brief Summary:
-
-
-
 ## License of Source Code
 
 ### Example Code
@@ -34,10 +30,6 @@ The population data is available in CSV format as **population_by_country_AUG.20
 
 
 ## Summary of Terms of Use
-
-
-
-## API Documentation
 
 
 
