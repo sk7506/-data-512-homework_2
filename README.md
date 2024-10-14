@@ -24,7 +24,7 @@ The Wikipedia Category:Politicians by nationality was crawled to generate a list
 
 The population data is available in CSV format as **population_by_country_AUG.2024.csv** This dataset was downloaded from the world population data sheet published by the Population Reference Bureau.
 
-# Article Page Info MediaWiki API Example
+## Article Page Info MediaWiki API Example
 This example illustrates how to access page info data using the [MediaWiki REST API for the EN Wikipedia](https://www.mediawiki.org/wiki/API:Main_page). This example shows how to request summary 'page info' for a single article page. The API documentation, [API:Info](https://www.mediawiki.org/wiki/API:Info), covers additional details that may be helpful when trying to use or understand this example.
 
 ## License
