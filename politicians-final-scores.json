@@ -1,0 +1,176 @@
+{
+    "Abdul Baqi Turkistani": {
+        "rev_id": 1231655023,
+        "ores_score": {
+            "enwiki": {
+                "models": {
+                    "articlequality": {
+                        "version": "0.9.2"
+                    }
+                },
+                "scores": {
+                    "1231655023": {
+                        "articlequality": {
+                            "score": {
+                                "prediction": "Stub",
+                                "probability": {
+                                    "B": 0.007563164541978763,
+                                    "C": 0.010571998067933668,
+                                    "FA": 0.0014567448768872152,
+                                    "GA": 0.00350824677167893,
+                                    "Start": 0.04243220742433865,
+                                    "Stub": 0.9344676383171826
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Abdul Ghani Ghani": {
+        "rev_id": 1227026187,
+        "ores_score": {
+            "enwiki": {
+                "models": {
+                    "articlequality": {
+                        "version": "0.9.2"
+                    }
+                },
+                "scores": {
+                    "1227026187": {
+                        "articlequality": {
+                            "score": {
+                                "prediction": "Stub",
+                                "probability": {
+                                    "B": 0.011385918433177837,
+                                    "C": 0.01746636720083123,
+                                    "FA": 0.0023603522965185463,
+                                    "GA": 0.005156605723717649,
+                                    "Start": 0.0518527973277106,
+                                    "Stub": 0.9117779590180441
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Abdul Rahim Ayoubi": {
+        "rev_id": 1226326055,
+        "ores_score": {
+            "enwiki": {
+                "models": {
+                    "articlequality": {
+                        "version": "0.9.2"
+                    }
+                },
+                "scores": {
+                    "1226326055": {
+                        "articlequality": {
+                            "score": {
+                                "prediction": "Start",
+                                "probability": {
+                                    "B": 0.0897653669002612,
+                                    "C": 0.18855268735911823,
+                                    "FA": 0.005967724991415198,
+                                    "GA": 0.05425702404770877,
+                                    "Start": 0.3726201578534696,
+                                    "Stub": 0.28883703884802714
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Ahmad Wali Massoud": {
+        "rev_id": 1221720658,
+        "ores_score": {
+            "enwiki": {
+                "models": {
+                    "articlequality": {
+                        "version": "0.9.2"
+                    }
+                },
+                "scores": {
+                    "1221720658": {
+                        "articlequality": {
+                            "score": {
+                                "prediction": "Start",
+                                "probability": {
+                                    "B": 0.04863548158481943,
+                                    "C": 0.14165974190780029,
+                                    "FA": 0.005943239328813768,
+                                    "GA": 0.013279482999368476,
+                                    "Start": 0.6250083167480189,
+                                    "Stub": 0.16547373743117907
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Aimal Faizi": {
+        "rev_id": 1185105938,
+        "ores_score": {
+            "enwiki": {
+                "models": {
+                    "articlequality": {
+                        "version": "0.9.2"
+                    }
+                },
+                "scores": {
+                    "1185105938": {
+                        "articlequality": {
+                            "score": {
+                                "prediction": "Stub",
+                                "probability": {
+                                    "B": 0.02190643203808428,
+                                    "C": 0.049261259162947095,
+                                    "FA": 0.003540100416537221,
+                                    "GA": 0.009123043419378927,
+                                    "Start": 0.3156957794029233,
+                                    "Stub": 0.6004733855601292
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Amir Muhammad Akhundzada": {
+        "rev_id": 1247931713,
+        "ores_score": {
+            "enwiki": {
+                "models": {
+                    "articlequality": {
+                        "version": "0.9.2"
+                    }
+                },
+                "scores": {
+                    "1247931713": {
+                        "articlequality": {
+                            "score": {
+                                "prediction": "Start",
+                                "probability": {
+                                    "B": 0.1171223467761034,
+                                    "C": 0.1046820024110478,
+                                    "FA": 0.0049030879143125644,
+                                    "GA": 0.023576322889329107,
+                                    "Start": 0.5188747103458122,
+                                    "Stub": 0.23084152966339483
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
