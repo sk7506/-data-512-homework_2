@@ -30,7 +30,7 @@ This example illustrates how to access page info data using the [MediaWiki REST 
 ## License
 This code example was developed by Dr. David W. McDonald for use in DATA 512, a course in the UW MS Data Science degree program. This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). Revision 1.2 - September 16, 2024
 
-# Requesting ORES scores through LiftWing ML Service API
+## Requesting ORES scores through LiftWing ML Service API
 Wikimedia Foundation (WMF) is reworking access to their APIs. It is likely in the coming years that all API access will require some kind of authentication, either through a simple key/token or through some version of OAuth. For now this is still a work in progress. You can follow the progress from their [API portal](https://api.wikimedia.org/wiki/Main_Page). Another on-going change is better control over API services in situations where those services require additional computational resources, beyond simply serving the text of a web page (i.e., the text of an article). Services like ORES that require running an ML model over the text of an article page is an example of a compute intensive API service.
 
 Wikimedia is implementing a new Machine Learning (ML) service infrastructure that they call [LiftWing](https://wikitech.wikimedia.org/wiki/Machine_Learning/LiftWing). Given that ORES already has several ML models that have been well used, ORES is the first set of APIs that are being moved to LiftWing.
