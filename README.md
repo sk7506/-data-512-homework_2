@@ -40,7 +40,7 @@ This example illustrates how to generate article quality estimates for article r
 ## License
 This code example was developed by Dr. David W. McDonald for use in DATA 512, a course in the UW MS Data Science degree program. This code is provided under the [Creative Commons](https://creativecommons.org) [CC-BY license](https://creativecommons.org/licenses/by/4.0/). Revision 1.0 - August 15, 2023
 
-## Intermediary and Final Data Files/Schema
+## Data Files Summary
 ### The following contextual files are either generated upon creation of the repository or loaded in/duplicated:
 
 1.  **README.md** Created in R
